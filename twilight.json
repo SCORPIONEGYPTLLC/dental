@@ -1,6 +1,6 @@
 {
     "name": {
-        "ar": "Dental",
+        "ar": "Tiktok theme",
         "en": "Dental"
     },
     "repository": "https://github.com/SCORPIONEGYPTLLC/dental",
@@ -822,7 +822,7 @@
     ],
     "support_url": null,
     "description": {
-        "ar": "",
-        "en": ""
+        "ar": null,
+        "en": null
     }
 }
